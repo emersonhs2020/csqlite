@@ -1,0 +1,13 @@
+C:\Users\Devanir\source\repos\SqliteConectarDataGridViewCsharp\bin\Debug\SqliteConectarDataGridViewCsharp.exe.config
+C:\Users\Devanir\source\repos\SqliteConectarDataGridViewCsharp\bin\Debug\SqliteConectarDataGridViewCsharp.exe
+C:\Users\Devanir\source\repos\SqliteConectarDataGridViewCsharp\bin\Debug\SqliteConectarDataGridViewCsharp.pdb
+C:\Users\Devanir\source\repos\SqliteConectarDataGridViewCsharp\obj\Debug\SqliteConectarDataGridViewCsharp.csprojAssemblyReference.cache
+C:\Users\Devanir\source\repos\SqliteConectarDataGridViewCsharp\obj\Debug\SqliteConectarDataGridViewCsharp.Form1.resources
+C:\Users\Devanir\source\repos\SqliteConectarDataGridViewCsharp\obj\Debug\SqliteConectarDataGridViewCsharp.Properties.Resources.resources
+C:\Users\Devanir\source\repos\SqliteConectarDataGridViewCsharp\obj\Debug\SqliteConectarDataGridViewCsharp.csproj.GenerateResource.cache
+C:\Users\Devanir\source\repos\SqliteConectarDataGridViewCsharp\obj\Debug\SqliteConectarDataGridViewCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Devanir\source\repos\SqliteConectarDataGridViewCsharp\obj\Debug\SqliteConectarDataGridViewCsharp.exe
+C:\Users\Devanir\source\repos\SqliteConectarDataGridViewCsharp\obj\Debug\SqliteConectarDataGridViewCsharp.pdb
+C:\Users\Devanir\source\repos\SqliteConectarDataGridViewCsharp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Devanir\source\repos\SqliteConectarDataGridViewCsharp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Devanir\source\repos\SqliteConectarDataGridViewCsharp\obj\Debug\SqliteConectarDataGridViewCsharp.csproj.CopyComplete
